@@ -1,0 +1,74 @@
+# Kai and Kiana: Demon Hunters
+
+**Kai and Kiana: Demon Hunters** is an anime-style top-down hack-and-slash game for 2–4 players. Journey through 10 action-packed levels as Kai and Kiana — two young siblings destined to protect the world from adorable yet spooky demon hordes. Pick your class, slash your way through slime-spewing enemies, and grow stronger with each battle!
+
+---
+
+## 🎮 Game Features
+
+- **Co-op Mode**: 2 to 4 players team up locally or online.
+- **Playable Characters**:
+  - **Kai**: A brave 7-year-old with blonde elf-like hair.
+  - **Kiana**: A clever 5-year-old with dirty blonde shoulder-length hair and bangs.
+- **Classes**:
+  - **Demon Hunter Ninja**: Fast and agile with high crit.
+  - **Demon Hunter Mage**: Ranged caster with mana-based abilities.
+  - **Demon Hunter Warrior**: Tanky and strong in melee combat.
+  - **Demon Hunter Priest**: Support class that can heal and bless allies.
+
+---
+
+## 🧟‍♀️ Enemies
+
+- A wide variety of **cute yet creepy demons** await.
+- **Green slime bursts** when hit — until they’re vanquished.
+- Onslaughts increase in size and complexity each level.
+
+---
+
+## 🗺️ Levels & Progression
+
+- **10 unique levels** to conquer — each with increasing difficulty.
+- Randomized **equipment**, **weapons**, **hearts**, **mana potions**, and more drop during combat.
+- **Level up and skill up** your character after each stage.
+- Strategic gameplay: manage your health and mana wisely.
+
+---
+
+## 🔮 Items
+
+- **Weapons**: Katana, Spellbooks, Dual Blades, Blessed Staffs
+- **Armor**: Light robes to heavy demon-slaying gear
+- **Hearts**: Restore health
+- **Potions**:
+  - **Health Potions**: Restore lost HP
+  - **Mana Potions**: Refill your mana bar
+- **Skill Points**: Earned on level-up, used to enhance stats and unlock new abilities
+
+---
+
+## 💡 Vision & Style
+
+- Art Style: **Anime-inspired**, vibrant, and family-friendly.
+- Combat Style: **Fast-paced, fluid slashing and spell casting**.
+- Audio: Energetic, upbeat soundtrack with magical and sword-slash effects.
+
+---
+
+## 🚧 Development Status
+
+**Pre-alpha** — mechanics, level design, character art, and enemy prototypes in development.
+
+---
+
+## 🛠️ Tech Stack (Suggested)
+
+- **Game Engine**: Unity or Godot
+- **Language**: C# (Unity) or GDScript (Godot)
+- **Multiplayer**: Mirror (Unity) or built-in Godot multiplayer
+- **Graphics**: Custom anime sprites and tilemaps
+
+---
+
+## 📁 Project Structure (Planned)
+
