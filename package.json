@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite --open | cat",
     "build": "vite build | cat",
-    "preview": "vite preview --strictPort --port 5173 | cat"
+    "preview": "vite preview --strictPort --port 5173 | cat",
+    "start": "vite build && vite preview --strictPort --port 5174 | cat"
   },
   "dependencies": {
     "phaser": "^3.70.0"
